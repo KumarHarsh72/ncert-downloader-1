@@ -1,0 +1,34 @@
+*{
+   background-color: #93c6d6; 
+}
+#heading{
+    height: 50px;
+    width: 140px;
+    border-radius: 25px;
+    margin: 20px auto;
+    text-align: center;
+    color: #002E2C;
+    background-color: burlywood;
+}
+*{
+    color: #1c110a;
+}
+button{
+    border-radius: 50px;
+    background-color: #002e2c;
+    color: #93c6d6;
+}
+button:hover{
+    background-color: #668586;
+    color: burlywood;
+}
+#maths{
+    margin: auto;
+    text-align: center;
+    height: 30px;
+    width: 200px;
+    background-color: #83aeb1 ;
+    border-radius: 15px;
+}
+    
+
